@@ -16,7 +16,7 @@ A machine learning project that predicts whether a customer will leave the bank.
 - `Churn_Modelling.csv`: Original dataset used for training and evaluation
 - `README.md`: Documentation and usage instructions
 
-## 🛠️ Installation
+## Installation
 
 Clone the repo:
 ```bash
@@ -31,5 +31,5 @@ pip install -r requirements.txt
 
 Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
